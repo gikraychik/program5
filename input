@@ -150,7 +150,7 @@ delete tmp1;
 
 delete out;
 
-ind4 = rele2 ? 1 : 0;
+ind5 = rele2 ? 1 : 0;
 
 s2 = rele2; s3 = 0; s4 = 0;
 delete rele2; delete rele3; delete rele4;
