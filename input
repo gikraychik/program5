@@ -150,6 +150,8 @@ delete tmp1;
 
 delete out;
 
+if (rele2 == 0) { timer = 30000; }
+if (timer > 0) { rele2 = 0; }
 ind4 = rele2 ? 1 : 0;
 
 s2 = rele2; s3 = 0; s4 = 0;
